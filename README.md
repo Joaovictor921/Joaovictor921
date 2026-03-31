@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 estou fazendo faculdade de engenharia de software <br>🎯 Gosto de games <br>🎲 de programação</p>
+<p align="left">📚 3/8 semestre da faculdade de engenharia de software <br>🎯 Gosto de games <br>🎲 de programação</p>
 
 ###
 
