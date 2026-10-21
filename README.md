@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 3/8 semestre da faculdade de engenharia de software
+<p align="left">📚 4/8 semestre da faculdade de engenharia de software
 
 ###
 
